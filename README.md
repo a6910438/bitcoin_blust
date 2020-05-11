@@ -6,6 +6,9 @@ The test capability reaches a maximum of 240000 private keys per minute.
 
 Several more windows are needed to use the server configuration
 
+When the private key is found, the private key will be recorded in private.txt in the same directory
+
+#Need Java Environmental support
 
 
 Developer: Huang Sheng
